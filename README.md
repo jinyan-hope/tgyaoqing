@@ -8,7 +8,9 @@ EXCHANGE_SCORE = 15
 运行前确保可以正常访问网络
 
 
-tgapi版本: pip3 install python-telegram-bot==13.7
+pip3 install python-telegram-bot==13.7
+pip install aiogram==2.14
+
 纯python, 可以代码直接复制,运行main.py
 确保有python3.8以上的坏境
 确保已经正确修改config.py文件
